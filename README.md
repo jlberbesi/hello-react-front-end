@@ -32,7 +32,7 @@
 # 📖 About the Project <a name="about-project"></a>
 
 **hello-react-front-end** is a website that fetches data from the backend.
-[Link to backend repository](https://github.com/jlberbesi/hello-react-front-end/tree/redux)
+[Link to backend repository](https://github.com/jlberbesi/hello-rails-back-end/tree/Api)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,7 +72,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd project-folder
-  git clone git@github.com:jlberbesi/hello-rails-back-end.git
+  git clone https://github.com/jlberbesi/hello-react-front-end/tree/redux
 ```
 
 ### Install
