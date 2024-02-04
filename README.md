@@ -72,7 +72,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd project-folder
-  git clone https://github.com/jlberbesi/hello-react-front-end
+  git clone git@github.com:jlberbesi/hello-rails-back-end.git
 ```
 
 ### Install
