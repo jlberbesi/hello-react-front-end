@@ -116,7 +116,7 @@ You can deploy this project using GitPages:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Luis Emilio Rojas Rojas**
+👤 **Jose Luis Berbesi Lopera**
 
 - [GitHub](https://github.com/jlberbesi)
 - [Twitter](https://twitter.com/imberbesi)
