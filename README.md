@@ -32,7 +32,7 @@
 # 📖 About the Project <a name="about-project"></a>
 
 **hello-react-front-end** is a website that fetches data from the backend.
-[Link to backend repository](https://github.com/jlberbesi/hello-rails-back-end/tree/Api)
+[Link to backend repository](https://github.com/jlberbesi/hello-react-front-end/tree/redux)
 
 ## 🛠 Built With <a name="built-with"></a>
 
